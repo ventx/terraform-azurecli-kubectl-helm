@@ -10,7 +10,8 @@ ENV HELM_VERSION v3.0.3
 RUN apk add \
     python3 \
     curl \ 
-    git && \
+    git \
+    jq && \
     apk add --virtual .build-deps \
     gcc \
     libffi-dev \
