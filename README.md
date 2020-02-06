@@ -1,7 +1,7 @@
 # terraform-azurecli-kubectl-helm
 Small Alpine based Docker image with Terraform, azure-cli, kubectl and Helm.
 
-## Docker Hub
+# Docker Hub
 [ventx/terraform-azurecli-kubectl-helm](https://hub.docker.com/r/ventx/terraform-azurecli-kubectl-helm)
 
 # Docker image
