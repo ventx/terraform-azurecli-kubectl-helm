@@ -13,6 +13,7 @@ Small Alpine based Docker image with Terraform, azure-cli, kubectl and Helm.
 * [curl](https://pkgs.alpinelinux.org/package/v3.11/main/x86_64/curl)
 * [git](https://pkgs.alpinelinux.org/package/v3.11/main/x86_64/git)
 * [jq](https://pkgs.alpinelinux.org/package/v3.11/main/x86_64/jq)
+* [gettext](https://pkgs.alpinelinux.org/package/v3.11/main/x86_64/gettext)
 
 # Installed packages (pip)
 * [azure-cli](https://pypi.org/project/azure-cli) `2.0.81`

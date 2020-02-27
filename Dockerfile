@@ -11,7 +11,8 @@ RUN apk add \
     python3 \
     curl \ 
     git \
-    jq && \
+    jq \
+    gettext && \
     apk add --virtual .build-deps \
     gcc \
     libffi-dev \
